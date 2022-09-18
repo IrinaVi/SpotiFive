@@ -1,99 +1,119 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/timothyfisher/makers/final-project/SpotiFive/app/helpers/application_helper.rb": {
+      "/Users/timothyfisher/makers/SpotiFive/app/helpers/application_helper.rb": {
         "lines": [
           1,
           null
         ]
       },
-      "/Users/timothyfisher/makers/final-project/SpotiFive/app/helpers/games_helper.rb": {
+      "/Users/timothyfisher/makers/SpotiFive/app/helpers/games_helper.rb": {
         "lines": [
           1,
           null
         ]
       },
-      "/Users/timothyfisher/makers/final-project/SpotiFive/app/helpers/home_helper.rb": {
+      "/Users/timothyfisher/makers/SpotiFive/app/helpers/home_helper.rb": {
         "lines": [
           1,
           null
         ]
       },
-      "/Users/timothyfisher/makers/final-project/SpotiFive/app/helpers/result_helper.rb": {
+      "/Users/timothyfisher/makers/SpotiFive/app/helpers/result_helper.rb": {
         "lines": [
           1,
           null
         ]
       },
-      "/Users/timothyfisher/makers/final-project/SpotiFive/app/helpers/scoreboard_helper.rb": {
+      "/Users/timothyfisher/makers/SpotiFive/app/helpers/scoreboard_helper.rb": {
         "lines": [
           1,
           null
         ]
       },
-      "/Users/timothyfisher/makers/final-project/SpotiFive/app/helpers/sessions_helper.rb": {
+      "/Users/timothyfisher/makers/SpotiFive/app/helpers/sessions_helper.rb": {
         "lines": [
           1,
           null
         ]
       },
-      "/Users/timothyfisher/makers/final-project/SpotiFive/app/helpers/users_helper.rb": {
+      "/Users/timothyfisher/makers/SpotiFive/app/helpers/users_helper.rb": {
         "lines": [
           1,
           null
         ]
       },
-      "/Users/timothyfisher/makers/final-project/SpotiFive/app/controllers/scoreboard_controller.rb": {
+      "/Users/timothyfisher/makers/SpotiFive/app/controllers/sessions_controller.rb": {
         "lines": [
-          1,
-          1,
-          2,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
           1,
           1,
           0,
+          0,
+          null,
           null,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null,
+          0,
+          null,
           null,
           1,
+          0,
+          0,
           null,
-          2,
-          1,
-          null,
-          1,
           null,
           null,
           null
         ]
       },
-      "/Users/timothyfisher/makers/final-project/SpotiFive/app/controllers/application_controller.rb": {
+      "/Users/timothyfisher/makers/SpotiFive/app/controllers/application_controller.rb": {
         "lines": [
+          1,
           1,
           1,
           null
         ]
       },
-      "/Users/timothyfisher/makers/final-project/SpotiFive/app/models/user.rb": {
+      "/Users/timothyfisher/makers/SpotiFive/lib/refresh_tokens.rb": {
         "lines": [
           1,
-          1,
-          null
-        ]
-      },
-      "/Users/timothyfisher/makers/final-project/SpotiFive/app/models/application_record.rb": {
-        "lines": [
-          1,
-          1,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
           null
         ]
       }
     },
-    "timestamp": 1662535523
+    "timestamp": 1663506086
   }
 }
