@@ -10,10 +10,6 @@
 
 Here is our third group project for the Makers Academy bootcamp where we decided to make a competitive web based game leverage Spotify's public API
 
-## View here!
-
-<insert link to app ...horuku link?>
-
 ## Meet the team!
 
 - https://github.com/IrinaVi

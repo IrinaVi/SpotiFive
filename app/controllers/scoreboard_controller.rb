@@ -39,6 +39,8 @@ class ScoreboardController < ApplicationController
         puts "ALL GAMES:", all_games
       end
 
+      @games = Game.all
+      @users = User.all
       @games_sorted_total_scores = all_games.sort_by {|user| -user[:av_score]}
       @games_sorted_percentage = all_games.sort_by {|user| -user[:win_percentage]}
       @logged_in_user_id = user.id

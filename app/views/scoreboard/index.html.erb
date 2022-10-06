@@ -16,6 +16,11 @@
                     </tr>
                 </thead>
                 <tbody>
+                <% puts "PRINT USERS:", @users %>
+                <% puts "PRINT GAMES:", @games %>
+                 <% puts "LOGGED IN USER:", @logged_in_user_id %>
+                <% puts "EASY games:", @easy_games %>
+                <% puts "PRINT games sorted total scores:", @games_sorted_total_scores %>
                     <% @games_sorted_total_scores.each_with_index do | user, index | %>
                         <% if user[:id] == @logged_in_user_id %>
                             <tr class="logged-in-user-row">
